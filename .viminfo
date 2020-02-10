@@ -1,0 +1,1013 @@
+# Vim 8.1 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/ignorar
+
+# Último SustituciónPatrón de búsqueda:
+~MSle0&\r
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q
+|2,0,1581291880,,"q"
+:colorscheme desert
+|2,0,1571263705,,"colorscheme desert"
+:wq
+|2,0,1569405120,,"wq"
+:w
+|2,0,1569405118,,"w"
+:colorscheme koehler
+|2,0,1569405086,,"colorscheme koehler"
+:colorscheme default
+|2,0,1569405075,,"colorscheme default"
+:!q
+|2,0,1567731169,,"!q"
+:set hls is
+|2,0,1567731112,,"set hls is"
+:set ic
+|2,0,1567731082,,"set ic"
+:!ls
+|2,0,1567730948,,"!ls"
+:!dir
+|2,0,1567730935,,"!dir"
+:set nu!
+|2,0,1567220323,,"set nu!"
+:set
+|2,0,1567220158,,"set"
+:q!
+|2,0,1567013270,,"q!"
+:echo has('clipboard'(
+|2,0,1566952503,,"echo has('clipboard'("
+:e fabrica.svg
+|2,0,1561053221,,"e fabrica.svg"
+:e instrucciones.svg
+|2,0,1561053091,,"e instrucciones.svg"
+:e
+|2,0,1561053084,,"e"
+:sav fabrica.svg
+|2,0,1561051864,,"sav fabrica.svg"
+:enew
+|2,0,1561051817,,"enew"
+:sav fabricado.svg
+|2,0,1561051810,,"sav fabricado.svg"
+:enew fabricado.svg
+|2,0,1561051769,,"enew fabricado.svg"
+:sav desechable.svg
+|2,0,1561051687,,"sav desechable.svg"
+:sav proteger.svg
+|2,0,1561051653,,"sav proteger.svg"
+:sav instrucciones.svg
+|2,0,1561051606,,"sav instrucciones.svg"
+:sav caducidad.svg
+|2,0,1560987416,,"sav caducidad.svg"
+:saw
+|2,0,1560987395,,"saw"
+:sav
+|2,0,1560987391,,"sav"
+:%s/\r/ /g
+|2,0,1560881421,,"%s/\\r/ /g"
+:imap jj <Esc>
+|2,0,1550776015,,"imap jj <Esc>"
+:imap jj
+|2,0,1550775982,,"imap jj"
+:wa
+|2,0,1547474390,,"wa"
+:help
+|2,0,1547474026,,"help"
+:qw
+|2,0,1517593758,,"qw"
+:Q
+|2,0,1517593491,,"Q"
+:e ~/Desarrollo/Technodomus/diseno-final/src/esterilizacion/empaque/tapetes.jade
+|2,0,1512570963,,"e ~/Desarrollo/Technodomus/diseno-final/src/esterilizacion/empaque/tapetes.jade"
+:qa
+|2,0,1512570747,,"qa"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+? @$
+|2,1,1581291815,,"@$"
+?/ignorar
+|2,1,1567731090,47,"ignorar"
+?/10 GUI
+|2,1,1567219920,47,"10 GUI"
+?/UNIVERSITARIO
+|2,1,1561739426,47,"UNIVERSITARIO"
+?/COLIMA
+|2,1,1561739354,47,"COLIMA"
+?/colima
+|2,1,1561739344,47,"colima"
+? \r
+|2,1,1560881421,,"\\r"
+?/'s,^M$,,
+|2,1,1560872833,47,"'s,^M$,,"
+?/ATOTO
+|2,1,1560869167,47,"ATOTO"
+?/![
+|2,1,1548332684,47,"!["
+?/scrip
+|2,1,1517593402,47,"scrip"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""0	CHAR	0
+	About
+|3,1,0,0,1,0,1581291815,"About"
+"1	LINE	0
+	      4) Yo tengo un coche,
+	      5) Los relojes marcan la hora,
+|3,0,1,1,2,0,1567730730,"      4) Yo tengo un coche,","      5) Los relojes marcan la hora,"
+"2	LINE	0
+	      2) El barro es divertido,
+|3,0,2,1,1,0,1567730724,"      2) El barro es divertido,"
+"3	LINE	0
+	  4. Escriba   2dd   (recuerde	número-mandato-objeto) para borrar las dos
+	     líneas.
+|3,0,3,1,2,0,1567730716,"  4. Escriba   2dd   (recuerde	número-mandato-objeto) para borrar las dos","     líneas."
+"4	LINE	0
+	  2. Escriba  dd  para borrar la línea.
+|3,0,4,1,1,0,1567730706,"  2. Escriba  dd  para borrar la línea."
+"5	LINE	0
+	tesseract-206.txt
+	tesseract-207.txt
+	tesseract-208.txt
+	tesseract-209.txt
+	tesseract-210.txt
+	tesseract-211.txt
+	tesseract-212.txt
+	tesseract-213.txt
+	tesseract-214.txt
+	tesseract-215.txt
+|3,0,5,1,10,0,1556751983,"tesseract-206.txt","tesseract-207.txt","tesseract-208.txt","tesseract-209.txt","tesseract-210.txt","tesseract-211.txt","tesseract-212.txt","tesseract-213.txt","tesseract-214.txt","tesseract-215.txt"
+"6	LINE	0
+	tesseract-196.txt
+	tesseract-197.txt
+	tesseract-198.txt
+	tesseract-199.txt
+	tesseract-200.txt
+	tesseract-201.txt
+	tesseract-202.txt
+	tesseract-203.txt
+	tesseract-204.txt
+	tesseract-205.txt
+|3,0,6,1,10,0,1556751983,"tesseract-196.txt","tesseract-197.txt","tesseract-198.txt","tesseract-199.txt","tesseract-200.txt","tesseract-201.txt","tesseract-202.txt","tesseract-203.txt","tesseract-204.txt","tesseract-205.txt"
+"7	LINE	0
+	tesseract-186.txt
+	tesseract-187.txt
+	tesseract-188.txt
+	tesseract-189.txt
+	tesseract-190.txt
+	tesseract-191.txt
+	tesseract-192.txt
+	tesseract-193.txt
+	tesseract-194.txt
+	tesseract-195.txt
+|3,0,7,1,10,0,1556751983,"tesseract-186.txt","tesseract-187.txt","tesseract-188.txt","tesseract-189.txt","tesseract-190.txt","tesseract-191.txt","tesseract-192.txt","tesseract-193.txt","tesseract-194.txt","tesseract-195.txt"
+"8	LINE	0
+	tesseract-176.txt
+	tesseract-177.txt
+	tesseract-178.txt
+	tesseract-179.txt
+	tesseract-180.txt
+	tesseract-181.txt
+	tesseract-182.txt
+	tesseract-183.txt
+	tesseract-184.txt
+	tesseract-185.txt
+|3,0,8,1,10,0,1556751983,"tesseract-176.txt","tesseract-177.txt","tesseract-178.txt","tesseract-179.txt","tesseract-180.txt","tesseract-181.txt","tesseract-182.txt","tesseract-183.txt","tesseract-184.txt","tesseract-185.txt"
+"9	LINE	0
+	tesseract-166.txt
+	tesseract-167.txt
+	tesseract-168.txt
+	tesseract-169.txt
+	tesseract-170.txt
+	tesseract-171.txt
+	tesseract-172.txt
+	tesseract-173.txt
+	tesseract-174.txt
+	tesseract-175.txt
+|3,0,9,1,10,0,1556751982,"tesseract-166.txt","tesseract-167.txt","tesseract-168.txt","tesseract-169.txt","tesseract-170.txt","tesseract-171.txt","tesseract-172.txt","tesseract-173.txt","tesseract-174.txt","tesseract-175.txt"
+"-	CHAR	0
+	About
+|3,0,36,0,1,0,1569405056,"About"
+
+# Marcas en el archivo:
+'0  201  0  ~/
+|4,48,201,0,1581291880,"~/"
+'1  1  0  ~/Documentos/Technodomus/reconocimientos.csv
+|4,49,1,0,1571422775,"~/Documentos/Technodomus/reconocimientos.csv"
+'2  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,50,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+'3  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,51,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+'4  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,52,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+'5  2  19  ~/.vimrc
+|4,53,2,19,1568910516,"~/.vimrc"
+'6  1  0  ~/scripts/intro.sh
+|4,54,1,0,1568047674,"~/scripts/intro.sh"
+'7  3  37  ~/Imágenes/Technodomus/puebas/marcas.sh
+|4,55,3,37,1568047620,"~/Imágenes/Technodomus/puebas/marcas.sh"
+'8  763  19  /tmp/tutorXZQvVr
+|4,56,763,19,1567731173,"/tmp/tutorXZQvVr"
+'9  1  0  ~/Desarrollo/Technodomus/segunda/src/esterilizacion/empaque/contenedores.jade
+|4,57,1,0,1567013949,"~/Desarrollo/Technodomus/segunda/src/esterilizacion/empaque/contenedores.jade"
+
+# Lista de saltos (el más reciente va primero):
+-'  201  0  ~/
+|4,39,201,0,1581291880,"~/"
+-'  8  0  ~/.tldr
+|4,39,8,0,1581291815,"~/.tldr"
+-'  8  0  ~/.tldr/cache
+|4,39,8,0,1581291813,"~/.tldr/cache"
+-'  1  0  ~/.tldr
+|4,39,1,0,1581291807,"~/.tldr"
+-'  1  0  ~/.tldr/cache
+|4,39,1,0,1581291804,"~/.tldr/cache"
+-'  1  0  ~/Documentos/Technodomus/reconocimientos.csv
+|4,39,1,0,1571422775,"~/Documentos/Technodomus/reconocimientos.csv"
+-'  1  0  ~/Documentos/Technodomus/reconocimientos.csv
+|4,39,1,0,1571422775,"~/Documentos/Technodomus/reconocimientos.csv"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405200,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  9  18  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,9,18,1569405120,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  1  0  ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+|4,39,1,0,1569405052,"~/Desarrollo/Technodomus/farma/misitio/content/about.md"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+-'  2  19  ~/.vimrc
+|4,39,2,19,1568910516,"~/.vimrc"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/Documentos/Technodomus/reconocimientos.csv
+	*	1571422771	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/farma/misitio/content/about.md
+	*	1569405197	0
+	"	1	0
+	^	9	19
+	.	9	19
+	+	2	15
+	+	4	11
+	+	9	19
+
+> ~/.vimrc
+	*	1568910506	0
+	"	2	19
+	^	2	19
+	.	2	18
+	+	1	18
+	+	2	18
+
+> ~/scripts/intro.sh
+	*	1568047672	0
+	"	1	0
+
+> ~/Imágenes/Technodomus/puebas/marcas.sh
+	*	1568047593	0
+	"	3	37
+	^	3	38
+	.	3	37
+	+	3	41
+	+	6	19
+	+	11	83
+	+	12	5
+	+	13	6
+	+	6	46
+	+	11	71
+	+	9	7
+	+	10	6
+	+	3	37
+
+> /tmp/tutorXZQvVr
+	*	1567731170	0
+	"	763	19
+	^	661	80
+	.	661	79
+	+	85	31
+	+	109	38
+	+	217	0
+	+	218	0
+	+	220	0
+	+	221	0
+	+	661	79
+
+> ~/option-window
+	*	1567220279	0
+	"	376	0
+	.	995	0
+	+	995	0
+
+> /usr/share/vim/vim81/doc/options.txt
+	*	1567220269	0
+	"	17	0
+
+> ~/Desarrollo/Technodomus/segunda/src/esterilizacion/empaque/contenedores.jade
+	*	1567013945	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/segunda/src/esterilizacion/empaque/contenedores-as.jade
+	*	1567013259	0
+	"	19	10
+	.	48	0
+	+	48	0
+
+> ~/Descargas/lavadora desinfectadora500.pdf
+	*	1566949821	0
+	"	9	0
+
+> ~/Desarrollo/python/Technodomus/recursos_salud_2015.csv
+	*	1562001883	0
+	"	24262	487
+
+> ~/Desarrollo/R/Technodomus/Recursos_Salud_2017.csv
+	*	1561984565	0
+	"	33	356
+
+> ~/Descargas/sc_csv_20190624230746_684_grid_EstadisticaPacientes.csv
+	*	1561418594	0
+	"	491	0
+
+> ~/Descargas/sc_csv_20190624230833_386_grid_EstadisticaPacientes.csv
+	*	1561418588	0
+	"	281	0
+
+> ~/fabrica.svg
+	*	1561053237	0
+	"	5	0
+	.	1	0
+	+	5	0
+	+	1	0
+
+> ~/instrucciones.svg
+	*	1561053115	0
+	"	7	0
+	.	1	0
+	+	7	0
+	+	1	0
+
+> ~/Descargas/sc_csv_20190619001018_908_grid_EstadisticaPacientes.csv
+	*	1560903159	0
+	"	1	0
+
+> ~/Descargas/respuestas2.csv
+	*	1560881421	0
+	"	661	0
+	.	1	0
+	+	1	0
+
+> ~/Descargas/respuestas1.csv
+	*	1560881396	0
+	"	6228	0
+	.	1	0
+	+	1	171
+	+	1	0
+
+> ~/Descargas/tabula-ANEXO DOS.- Respuestas a preguntas 3 (1).csv
+	*	1560880259	0
+	"	1	0
+	^	3	480
+	.	1	0
+	+	3	0
+	+	1	0
+
+> ~/Descargas/sc_csv_20190618010907_649_grid_EstadisticaPacientes.csv
+	*	1560869167	0
+	"	101	630
+
+> ~/Desarrollo/python/Technodomus/hospitales_publicos.csv
+	*	1560277878	0
+	"	1357	0
+
+> ~/.cache/.fr-J758uo/conjunto_de_datos/tr_esep_conext_2004_2017.csv
+	*	1559764721	0
+	"	177	0
+
+> ~/.cache/.fr-iM1sBf/conjunto_de_datos/tr_esep_hospla_2004_2017.csv
+	*	1559764709	0
+	"	449	0
+
+> ~/Descargas/sc_csv_20190530195627_914_grid_EstadisticaPacientes.csv
+	*	1559264206	0
+	"	1	0
+
+> ~/Descargas/tepeji.csv
+	*	1559164001	0
+	"	1	0
+
+> ~/Descargas/fotos/Fotografias Artefactos mecánicos/DGDC UNAM 12.09.18 MJR/universum_001.jpg.xmp
+	*	1558825667	0
+	"	1	0
+
+> ~/Descargas/BASE_IMSS_2017 - Hoja 2.csv
+	*	1558482930	0
+	"	12	0
+
+> ~/Desarrollo/sms/sms_tizayuca.csv
+	*	1558482469	0
+	"	1	0
+
+> ~/Descargas/istabla01_0.csv
+	*	1558460507	0
+	"	16	0
+
+> ~/Desarrollo/sms/prueba_sms.csv
+	*	1557953383	0
+	"	5	70
+	^	5	71
+	.	5	71
+	+	5	71
+
+> ~/Descargas/sc_csv_20190515113122_419_grid_EstadisticaPacientes.csv
+	*	1557938166	0
+	"	178	0
+
+> ~/Documentos/Technodomus/libro/lista
+	*	1556751986	0
+	"	226	0
+	.	227	0
+	+	1	0
+	+	227	0
+
+> ~/.zshrc
+	*	1552850482	0
+	"	72	0
+	^	6	30
+	.	36	0
+	+	11	14
+	+	2	0
+	+	7	0
+	+	6	29
+	+	5	30
+	+	6	29
+	+	33	0
+	+	36	0
+
+> ~/Descargas/report1552678303916.csv
+	*	1552678490	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/segunda/node_modules/icon-linux/index.js
+	*	1552083338	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/segunda/src/_scripts/main.js
+	*	1551973628	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/paginaweb/src/_scripts/main.js
+	*	1551973574	0
+	"	15	5
+
+> ~/Desarrollo/Technodomus/paginaweb/gulpfile.babel.js
+	*	1551109552	0
+	"	3	7
+	^	3	14
+	.	3	7
+	+	3	7
+
+> ~/Desarrollo/Technodomus/originales/index.html
+	*	1550886226	0
+	"	38	0
+
+> ~/Desarrollo/Technodomus/originales/.cpanel.yml
+	*	1550878751	0
+	"	4	15
+	^	4	16
+	.	4	0
+	+	4	0
+
+> ~/sitemap.xml
+	*	1550169765	0
+	"	57	0
+
+> ~/Documentos/ProyectosEx/ValledeBravo/Reporte del estado de conserva.md
+	*	1548333135	0
+	"	39	39
+	^	35	1076
+	.	35	1076
+	+	4	18
+	+	20	19
+	+	37	110
+	+	35	1076
+
+> ~/.cache/.fr-Mg1czA/ejem_lad_recursos.CSV
+	*	1547851884	0
+	"	1	0
+
+> ~/.cache/.fr-hXEGUK/ejem_lad_recursos.CSV
+	*	1547848960	0
+	"	92	0
+
+> ~/Descargas/INEGI_Exporta_20190118142601.csv
+	*	1547843207	0
+	"	255	0
+
+> ~/.cache/.fr-Ld1Ner/catalogos/tc_esep_entidad.csv
+	*	1547841128	0
+	"	18	0
+
+> ~/.cache/.fr-cwFthi/conjunto_de_datos/tr_esep_recursos_2004_2017.csv
+	*	1547841100	0
+	"	1	0
+
+> ~/.cache/.fr-STgTGW/diccionario_de_datos/diccionario_de_datos_esep_recursos_2004_2017.csv
+	*	1547841081	0
+	"	14	0
+
+> ~/.cache/.fr-088DSN/conjunto_de_datos/tr_esep_recursos_2004_2017.csv
+	*	1547840640	0
+	"	2	0
+
+> ~/Descargas/istabla08.csv
+	*	1547653364	0
+	"	5	713
+
+> ~/Descargas/istabla03.csv
+	*	1547600038	0
+	"	1	275
+
+> ~/Descargas/istabla01.csv
+	*	1547600000	0
+	"	1	0
+
+> /usr/share/vim/vim81/doc/usr_05.txt
+	*	1547474260	0
+	"	199	0
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1547474123	0
+	"	56	4
+
+> ~/Desarrollo/Technodomus/correos_web/Gruntfile.js
+	*	1547473994	0
+	"	7	1
+	^	7	2
+	.	7	1
+	+	7	1
+	o	1	0
+
+> ~/Desarrollo/Technodomus/correos_web/package.json
+	*	1547427032	0
+	"	7	0
+	^	7	1
+	.	7	1
+	+	3	10
+	+	2	7
+	+	7	1
+
+> ~/Descargas/REPORTE_TOMO_VIII.csv
+	*	1545077467	0
+	"	7	0
+
+> ~/Desarrollo/Technodomus/segunda/README.md
+	*	1543940619	0
+	"	53	0
+
+> ~/Descargas/MAES_621_CURRENT_VIEW.CSV
+	*	1543077075	0
+	"	1	0
+
+> ~/pruebas/58drv for linux102/readme.txt
+	*	1541700274	0
+	"	24	0
+
+> ~/pruebas/58drv for linux102/readme
+	*	1541700191	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/segunda/src/esterilizacion/empaque/selladora.jade
+	*	1528408722	0
+	"	27	4
+	.	28	0
+	+	27	88
+	+	25	0
+	+	27	4
+	+	22	10
+	+	23	10
+	+	24	10
+	+	25	10
+	+	27	0
+	+	28	0
+
+> ~/Descargas/licitacionSEDENA.txt
+	*	1528402455	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Descargas/licitacionSedenaCentrum.html
+	*	1528402365	0
+	"	4	0
+
+> ~/Descargas/bulkQuery_result_750A0000007Gf5HIAS_751A000000Chd0JIAR_752A0000003iG8f.csv
+	*	1527540614	0
+	"	8	0
+
+> ~/Descargas/Lic_Hosp.csv
+	*	1527532438	0
+	"	1	0
+
+> ~/.local/share/applications/writemonkey.desktop
+	*	1526559635	0
+	"	7	36
+	^	7	37
+	.	7	36
+	+	1	0
+	+	2	16
+	+	3	34
+	+	4	26
+	+	2	10
+	+	4	36
+	+	7	7
+	+	8	0
+	+	10	37
+	+	7	36
+
+> ~/.local/share/applications/appimagekit-Etcher.desktop
+	*	1526559549	0
+	"	9	0
+
+> ~/.local/share/applications/appimagekit-nteract.desktop
+	*	1526559231	0
+	"	1	0
+
+> ~/Software/uniconvertor-2.0rc3/README.txt
+	*	1525906639	0
+	"	21	0
+
+> ~/.ssh/known_hosts
+	*	1525203800	0
+	"	11	171
+	^	11	33
+	.	11	0
+	+	1	0
+	+	9	0
+	+	8	0
+	+	8	166
+	+	11	0
+
+> ~/Descargas/scheduled-messages.csv
+	*	1524089323	0
+	"	6	19
+	^	6	186
+	.	6	187
+	+	6	187
+
+> ~/Descargas/google-calendar-scheduled-messages.csv
+	*	1524085233	0
+	"	1	0
+
+> ~/.gdrive_private
+	*	1523566072	0
+	"	1	0
+
+> ~/Descargas/report1521671600575.csv
+	*	1521672348	0
+	"	1	0
+
+> ~/Descargas/report1521224315236.csv
+	*	1521244313	0
+	"	17	0
+
+> ~/Imágenes/teotihuacan/datos.txt
+	*	1518992337	0
+	"	4	19
+	^	4	20
+	.	4	19
+	+	1	115
+	+	1	54
+	+	1	32
+	+	1	99
+	+	1	20
+	+	1	105
+	+	1	100
+	+	1	101
+	+	1	103
+	+	1	40
+	+	1	17
+	+	1	32
+	+	1	176
+	+	1	69
+	+	1	2
+	+	1	97
+	+	1	30
+	+	1	42
+	+	1	32
+	+	1	95
+	+	1	2
+	+	1	129
+	+	1	96
+	+	1	30
+	+	1	74
+	+	1	30
+	+	1	94
+	+	1	30
+	+	2	2
+	+	1	2
+	+	2	53
+	+	1	51
+	+	4	19
+
+> ~/Imágenes/teotihuacan/quetzalcoatl1918.exv
+	*	1518991214	0
+	"	1	1468
+
+> ~/Imágenes/teotihuacan/quetzalcoatl1918.ex
+	*	1518991176	0
+	"	1	0
+
+> ~/Imágenes/teotihuacan/archivo
+	*	1518984671	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/googleApps/generadoPDF/prueba.txt
+	*	1518653352	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	50
+	+	2	0
+
+> ~/.atom/config.cson
+	*	1518605588	0
+	"	22	2
+
+> ~/Desarrollo/Technodomus/paginaweb/package.json
+	*	1517593758	0
+	"	35	25
+
+> ~/Desarrollo/Technodomus/segunda/package.json
+	*	1517593752	0
+	"	88	15
+	.	8	15
+	+	3	18
+	+	8	15
+
+> ~/Desarrollo/Technodomus/paginaweb/gulp/browserify.js
+	*	1517593493	0
+	"	18	34
+
+> ~/Desarrollo/Technodomus/segunda/gulp/browserify.js
+	*	1517593457	0
+	"	23	23
+
+> ~/Desarrollo/Technodomus/paginaweb/gulpfile.js
+	*	1517576633	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/segunda/gulpfile.babel.js
+	*	1517576625	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/paginaweb/.git/COMMIT_EDITMSG
+	*	1517575869	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/segunda/node_modules/jquery/package.json
+	*	1517572051	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/segunda/node_modules/jquery/LICENSE.txt
+	*	1517572022	0
+	"	36	0
+
+> ~/Desarrollo/Technodomus/segunda/node_modules/jquery/README.md
+	*	1517572003	0
+	"	18	0
+
+> ~/Desarrollo/Technodomus/segunda/.git/COMMIT_EDITMSG
+	*	1517571900	0
+	"	7	53
+	^	7	54
+	.	7	53
+	+	7	53
+
+> ~/Desarrollo/Technodomus/diseno-final/src/esterilizacion/empaque/tapetes.jade
+	*	1512571009	0
+	"	58	33
+	^	52	0
+	.	59	0
+	+	53	0
+	+	50	29
+	+	46	14
+	+	47	0
+	+	56	0
+	+	53	0
+	+	53	47
+	+	53	0
+	+	54	0
+	+	51	0
+	+	59	0
+
+> /run/media/mauricio/boot/config.txt
+	*	1511225282	0
+	"	59	12
+	^	59	13
+	.	59	13
+	+	59	13
+
+> ~/Descargas/gimp-plugin-bimp-1.18/README.md
+	*	1509750422	0
+	"	43	0
+
+> ~/Documentos/Technodomus/Folletos/test.out
+	*	1509570502	0
+	"	1	0
+
+> ~/Desarrollo/Technodomus/diseno-final/src/_styles/README.md
+	*	1508873937	0
+	"	36	0
